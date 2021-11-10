@@ -120,42 +120,6 @@
       "writer": "Admin",
       "image": "https://i.imgur.com/1IbVGj2.jpg",
       "id": 19
-    },
-    {
-      "name": "Cá hồi chiên xốt xoài",
-      "price": "200",
-      "description": "Xoài là loại trái cây có mùi thơm, vị chua ngọt đặc trưng & dễ dàng kết hợp với đủ các món mặn-ngọt. Cá Hồi Chiên Xốt Xoài với công thức của Món Ngon Mỗi Ngày sẽ giúp Mẹ thực hiện được một món ngon chuẩn vị Âu, nhưng cũng rất vừa miệng hấp dẫn.",
-      "status": "1",
-      "writer": "Admin",
-      "image": "https://i.imgur.com/y1PSQjc.jpg",
-      "id": 20
-    },
-    {
-      "name": "Burger cá hồi",
-      "price": "130",
-      "description": "Món này cuối tuần làm cho bé là cực đỉnh nha! Không cần đi ra ngoài hàng, Mẹ vẫn có thể tự tay chuẩn bị món Burger vừa ngon, vừa đủ dinh dưỡng tại nhà rồi đây!",
-      "status": "1",
-      "writer": "Admin",
-      "image": "https://i.imgur.com/97RMZGT.jpg",
-      "id": 21
-    },
-    {
-      "name": "Bánh khoai tây chiên xù",
-      "price": "80",
-      "description": "Thưởng thức những chiếc bánh khoai tây vàng ruộm và thơm lừng vị phô mai! Với sự kết hợp của nhiều nguyên liệu, chiếc bánh có độ mềm dẻo vừa phải, beo béo của phô mai và thịt xông khói, lại không ngán vì có thêm hẹ và hành tây.",
-      "status": "1",
-      "writer": "Admin",
-      "image": "https://i.imgur.com/H5ldUyq.jpg",
-      "id": 22
-    },
-    {
-      "name": "Bánh cá khoai tây",
-      "price": "150",
-      "description": "Món ăn chuẩn vị Âu này hẳn sẽ rất “được lòng” cả nhà với vị ngon siêu hấp dẫn: cắn vào giòn rụm – miếng cá chẽm thì ngọt & mọng nước, thêm vị bùi bùi của khoai tây hòa quyện tạo nên “cực phẩm”. ",
-      "status": "1",
-      "writer": "Admin",
-      "image": "https://i.imgur.com/tFLHBuL.jpg",
-      "id": 23
     }
   ],
   "users": [
@@ -202,78 +166,6 @@
       "roleId": "user",
       "username": "An69",
       "id": "PcMHM-I"
-    },
-    {
-      "email": "an6785@gmail.com",
-      "password": "$2a$10$CnXpEfaL3Ia7kv5R57OMSehbt6MF3cHcWagj0ngM8XVZRF2q67rbq",
-      "roleId": "user",
-      "username": "annguyen",
-      "id": "seC8i40"
-    },
-    {
-      "email": "an56789@gmail.com",
-      "password": "$2a$10$c8VvzpYRHZp2I1mR6.z1t.1t/GClSk9PKSoKXx8iMmJbDgn0/F.Su",
-      "roleId": "user",
-      "username": "An56700",
-      "id": "BgWcq9U"
-    },
-    {
-      "email": "an6996@gmail.com",
-      "password": "$2a$10$NiFC.tIkg.Nn6WHWVFGK.uyYw/q7IPB.s4nO7X9JwIvxvI0qcwzwK",
-      "roleId": "user",
-      "username": "ang67",
-      "id": "sXfx88P"
-    },
-    {
-      "email": "annguyen789@gmail.com",
-      "password": "$2a$10$dX275a6pgvgeIL0d5ZVzj.JTXvCI27R36VsbCbrbAI2iAiqYx.Wva",
-      "roleId": "user",
-      "username": "An56700",
-      "id": "paC7lmy"
-    },
-    {
-      "email": "zuka.vgc@gmail.com",
-      "password": "$2a$10$dbmvVAN6lACqpOTFWsescOLEVH4rUnhaP5U1FpvmqhV5VjieFAsSa",
-      "roleId": "user",
-      "username": "Zuka",
-      "id": "zwVYiWZ"
-    },
-    {
-      "email": "lubu.vgc@gmail.com",
-      "password": "$2a$10$Dq9jfX1ZBN6pq3meBv4Aeesg.kCFAF5PNoUxh9Nk773Z7rK5tesV2",
-      "roleId": "user",
-      "username": "Lubu",
-      "id": "jn5yLE4"
-    },
-    {
-      "email": "andev@gmail.com",
-      "password": "$2a$10$MISYvz4MfbZy9HinHnlVwO8gDJmnDlNj.YEpIKATZCghL4UeUqzVe",
-      "roleId": "user",
-      "username": "andev34",
-      "id": "yPOr3ju"
-    },
-    {
-      "email": "hy68@gmail.com",
-      "password": "$2a$10$4oq09mL9T0g9XtVGuj9phe0tdTV.LtmMeM.BxL6lmbQiYnuLAydCa",
-      "roleId": "user",
-      "username": "HuyKhung",
-      "id": "uULKtMB"
-    },
-    {
-      "email": "ongtrumgsansale67@gmail.com",
-      "password": "$2a$10$a8VhBO7ioYxgdMW0YTU3XebsXntGbtB5LFnFB1gPoS14A40wudYdu",
-      "roleId": "user",
-      "username": "OngTrumSanSale",
-      "createdAt": 1635140924187,
-      "id": "Lo1OYlz"
-    },
-    {
-      "email": "adam456@gmail.com",
-      "password": "$2a$10$UV4xJwe4.krA1cVyjiLHMuLhRp.bDfi6B5eeyyy8a7q2yQE2bEIX2",
-      "roleId": "user",
-      "username": "Adam",
-      "createdAt": 1635912949881,
-      "id": "5hlZ4t2"
     }
   ],
   "historyBuyProducts": [
