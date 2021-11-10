@@ -21,7 +21,7 @@
     {
       "name": "Sandwich nướng trứng sốt",
       "price": "110",
-      "description": "Bánh sandwich giòn giòn, rau củ thanh ngọt, ba rọi xông khói thơm thơm. Tất cả hòa quyện hương vị đậm đà, beo béo của xốt Mayonnaise Aji-mayo ngọt dịu. Chuẩn bữa sáng dinh dưỡng cho cả nhà!",
+      "description": "Bánh sandwich giòn giòn, rau củ thanh ngọt, ba rọi xông khói thơm thơm. Tất cả hòa quyện hương vị đậm đà, beo béo của xốt Mayonnaise Aji-mayo ngọt dịu.",
       "image": "https://i.imgur.com/t8YfMx7.jpg",
       "status": "1",
       "writer": "Admin",
@@ -30,7 +30,7 @@
     {
       "name": "Sandwich kẹp chả tôm",
       "price": "120",
-      "description": "Cùng Món Ngon Mỗi Ngày tham khảo ngay bí kíp làm món Sandwich Kẹp Chả Tôm nhanh gọn, mà đủ đầy dinh dưỡng ngay nhé.",
+      "description": "Sandwich Kẹp Chả Tôm nhanh gọn, mà đủ đầy dinh dưỡng.",
       "status": "1",
       "writer": "Admin",
       "image": "https://i.imgur.com/INPvD0E.jpg",
@@ -57,7 +57,7 @@
     {
       "name": "Salad cam cá hồi",
       "price": "90",
-      "description": "Một món ăn cực kỳ thích hợp cho các nàng muốn có dáng đẹp, làn da xinh là đây! Với sự kết hợp của cam vàng chứa nhiều vitamin C, các loại salad tươi mát & cả cá hồi giàu dinh dưỡng – món ăn này cực kỳ phù hợp với các cô nàng văn phòng.",
+      "description": "Một món ăn cực kỳ thích hợp cho các nàng muốn có dáng đẹp, làn da xinh! Với sự kết hợp của cam vàng chứa nhiều vitamin C, các loại salad tươi mát & cả cá hồi giàu dinh dưỡng mang lại càm giác mới lạ.",
       "status": "1",
       "writer": "Admin",
       "image": "https://i.imgur.com/gKs0HAn.jpg",
@@ -86,7 +86,7 @@
     {
       "name": "Pancake bò bằm",
       "price": "170",
-      "description": "Với cách biến tấu hoàn toàn mới từ đầu bếp Món Ngon Mỗi Ngày, món pancake bò bằm với phần bánh xốp mịn thơm vị phô mai, kết hợp thịt bằm & các loại rau – đảm bảo bé sẽ thích Mê luôn nha Mẹ ơi!",
+      "description": "Với cách biến tấu hoàn toàn mới từ đầu bếp, món pancake bò bằm với phần bánh xốp mịn thơm vị phô mai, kết hợp thịt bằm & các loại rau",
       "image": "https://i.imgur.com/XainHz5.jpg",
       "status": "1",
       "writer": "Admin",
@@ -96,7 +96,7 @@
     {
       "name": "Mỳ Ý xốt vẹm",
       "price": "200",
-      "description": "Mỳ spaghetty không chỉ có sốt cà chua bò bằm, hãy thử đổi món với nguyên liệu mới chứa nhiều protein và vitamin: vẹm xanh. Từng sợi mì dai kết hợp miếng vẹm mềm thịt, ngọt thanh, lại thoảng nhẹ hương rượu vang và lá hương thảo khiến món ăn vừa tinh tế theo kiểu châu Âu, lại vừa nhẹ bụng như ẩm thực châu Á!",
+      "description": "Mỳ spaghetty với nguyên liệu mới chứa nhiều protein và vitamin: vẹm xanh. Từng sợi mì dai kết hợp miếng vẹm mềm thịt, ngọt thanh, lại thoảng nhẹ hương rượu vang và lá hương thảo khiến món ăn vừa tinh tế theo kiểu châu Âu, lại vừa nhẹ bụng như ẩm thực châu Á!",
       "status": "1",
       "writer": "Admin",
       "image": "https://i.imgur.com/RDRwDtK.jpg",
