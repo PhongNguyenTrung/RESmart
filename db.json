@@ -37,6 +37,16 @@
       "id": 4
     },
     {
+      "name": "Pasta tình yêu",
+      "price": "120",
+      "description": "Bạn đã có ý tưởng cho bữa tối lãng mạn trong hơi nóng của ngày Valentine chưa? Hãy thử món ăn tuyệt vời mang tinh thần ấy nhé - Pasta tình yêu. Với Pasta mềm dai, vị phomai béo mặn và sốt cà chua thịt bò chua ngọt dậy mùi vang.",
+      "image": "https://i.imgur.com/6swq5BG.jpg",
+      "status": "1",
+      "writer": "Admin",
+      "createdAt": 1635073510186,
+      "id": 5
+    },
+    {
       "name": "Salad mùa hè",
       "price": "70",
       "description": "Ngày hè mà ăn salad trái cây thì tuyệt cú mèo luôn nha. Nhìn màu sắc hài hòa tự nhiên của các loại trái cây cũng đã thấy tươi mát chứ chưa nói đến ăn!",
@@ -52,7 +62,7 @@
       "status": "1",
       "writer": "Admin",
       "image": "https://i.imgur.com/miB3tdo.jpg",
-      "id": 9
+      "id": 7
     },
     {
       "name": "Salad cam cá hồi",
@@ -61,17 +71,7 @@
       "status": "1",
       "writer": "Admin",
       "image": "https://i.imgur.com/gKs0HAn.jpg",
-      "id": 10
-    },
-    {
-      "name": "Pasta tình yêu",
-      "price": "120",
-      "description": "Bạn đã có ý tưởng cho bữa tối lãng mạn trong hơi nóng của ngày Valentine chưa? Hãy thử món ăn tuyệt vời mang tinh thần ấy nhé - Pasta tình yêu. Với Pasta mềm dai, vị phomai béo mặn và sốt cà chua thịt bò chua ngọt dậy mùi vang.",
-      "image": "https://i.imgur.com/6swq5BG.jpg",
-      "status": "1",
-      "writer": "Admin",
-      "createdAt": 1635073510186,
-      "id": 12
+      "id": 8
     },
     {
       "name": "Pancake socola giáng sinh",
@@ -81,7 +81,7 @@
       "status": "1",
       "writer": "Admin",
       "createdAt": 1635144716091,
-      "id": 14
+      "id": 9
     },
     {
       "name": "Pancake bò bằm",
@@ -91,35 +91,35 @@
       "status": "1",
       "writer": "Admin",
       "createdAt": 1635144772206,
-      "id": 15
+      "id": 10
     },
     {
-      "name": "Mỳ Ý xốt vẹm",
-      "price": "200",
-      "description": "Mỳ spaghetty với nguyên liệu mới chứa nhiều protein và vitamin: vẹm xanh. Từng sợi mì dai kết hợp miếng vẹm mềm thịt, ngọt thanh, lại thoảng nhẹ hương rượu vang và lá hương thảo khiến món ăn vừa tinh tế theo kiểu châu Âu, lại vừa nhẹ bụng như ẩm thực châu Á!",
+      "name": "Cà phê,
+      "price": "30",
+      "description": "Cà phê sạch được chọn lọc từ những hạt cà phê nguyên chất, đem đến cho bạn hương vị thơm ngon nhất",
       "status": "1",
       "writer": "Admin",
-      "image": "https://i.imgur.com/RDRwDtK.jpg",
-      "id": 17
+      "image": "https://i.imgur.com/fDyDuWR.jpg",
+      "id": 11
     },
     {
-      "name": "Canh cải xoăn",
-      "price": "40",
-      "description": "Cải xoăn dồi dào vitamin C, lại giàu chất xơ, đem nấu cùng nồi thịt xay trộn đều với trứng gà. Màu sắc bắt mắt từ đỏ, vàng, xanh của rau củ, nước canh thì rất trong, dọn ra rồi húp từng ngụm nóng hổi cùng cả nhà, quá hấp dẫn!",
-      "image": "https://i.imgur.com/sUWBtCY.jpg",
+      "name": "Coca Cola",
+      "price": "20",
+      "description": "Coca Cola lon được nhập trực tiếp từ nhà máy Coca Cola Việt Nam, giúp bữa ăn của bạn thêm hương vị",
+      "image": "https://i.imgur.com/AtQQ78j.jpg",
       "status": "1",
       "writer": "Admin",
       "createdAt": 1635912890648,
-      "id": 18
+      "id": 12
     },
     {
-      "name": "Cá thu chiên giòn xốt chanh dây",
-      "price": "180",
-      "description": "Xốt chanh dây ngon miệng với vị chua dịu như một loại gia vị rất “Tây”, kết hợp cùng cá thu chiên giòn “rất quen” tạo thành một món ăn đầy sắc màu, đủ vị ngọt chua và tròn đầy dinh dưỡng.",
+      "name": "7up",
+      "price": "20",
+      "description": "7up lon được nhập trực tiếp từ nhà máy Coca Cola Việt Nam, đem đến cho bạn hương vị chanh sảng khoái bất tận",
       "status": "1",
       "writer": "Admin",
-      "image": "https://i.imgur.com/1IbVGj2.jpg",
-      "id": 19
+      "image": "https://i.imgur.com/Ftl9C9Z.jpg",
+      "id": 13
     }
   ],
   "users": [
