@@ -223,4 +223,6 @@
       "id": 1
     }
   ]
+  register:[]
+  login:[]
 }
